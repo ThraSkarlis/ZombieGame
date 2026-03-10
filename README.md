@@ -5,6 +5,13 @@ Overall, the game meets the design goals and offers an enjoyable experience, sho
 
 
 
-Mp4 file is a presentation of the game over some gameeeplay
+Mp4 file is a presentation of the game over some gameeplay
 The rest file are neded to play the game.
+
+!!!! SOS In order to use this repository you will have to have both Git LFS and Gitbash on your device. !!!!
+
+GitBash download: https://git-scm.com/downloads
+Git LFS download: https://git-lfs.com/ 
+
+
 Enjoy
