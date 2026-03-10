@@ -13,5 +13,5 @@ The rest file are neded to play the game.
 GitBash download: https://git-scm.com/downloads
 Git LFS download: https://git-lfs.com/ 
 
-
+In Order to play the game you will have to download all the x86 files
 Enjoy
